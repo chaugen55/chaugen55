@@ -1,19 +1,22 @@
 
-<h1> Hey, I'm Christian :smiley: <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
+<h1> Hey, I'm Christian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> :smiley: </h1> 
 
 <h3>
   <ul>
     <li>I'm a Tools and Automation Engineer at Apple.</li>
-    <li>Here's my <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">LinkedIn</a> profile</li>
     <li>I'm really interested in creating solutions that make peoples' lives more easy and enjoyable</li>
+    <li>My favorite languages are Python and JavaScript, but I am learning Swift and SwiftUI, as well as some other skills</li>
   </ul>
 </h3>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on changing the world :wink:
-- 🌱 I’m currently learning ... React.js, Data Science and ML with Python
-- 📫 How to reach me: [Email me](chaugen55@gmail.com)
-- 😄 Pronouns: he/him/his
+* 🔭 I’m currently working on changing the world :wink:
+* 🌱 I’m currently learning:
+  * Python
+    * test
+  * JavaScript
+* 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/christian-haugen-at-apple/)
+* 😄 Pronouns: he/him/his
 
 ## Languages and Tools:  
 
