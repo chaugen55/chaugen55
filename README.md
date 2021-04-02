@@ -1,6 +1,6 @@
 
 <h1> Hey, I'm Christian  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
-
+<h2><a href="https://www.linkedin.com/in/christian-haugen-at-apple/"><ion-icon name="logo-linkedin"></ion-icon></a></h2>
 
 <h3>
   I'm <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">Christian Haugen</a> and I'm a Tools and Automation Engineer at Apple. 
