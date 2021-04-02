@@ -1,21 +1,16 @@
 
 <h1> Hey, I'm Christian </h1> 
-<code><h1>:smiley:</h1></code>
+
 
 <h3>
   I'm <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">Christian Haugen</a> and I'm a Tools and Automation Engineer at Apple. 
 </h3>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on changing the world :wink:
+- 🌱 I’m currently learning ... React.js, Data Science and ML with Python
 - 📫 How to reach me: [Email me](chaugen55@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
--->
 
 ## Languages and Tools:  
 
