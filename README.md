@@ -1,5 +1,9 @@
-# Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<body>
+<h1> Hey <programmers/> </h1> <ion-icon name="logo-linkedin"></ion-icon>
 
+<a href="https://www.linkedin.com/in/christian-haugen-at-apple/">
+  <img align="left" alt="Christian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
