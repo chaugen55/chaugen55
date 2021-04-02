@@ -2,7 +2,11 @@
 <h1> Hey, I'm Christian :smiley: <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 
 <h3>
-  I'm <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">Christian Haugen</a> and I'm a Tools and Automation Engineer at Apple. 
+  <ul>
+    <li>I'm a Tools and Automation Engineer at Apple.</li>
+    <li>Here's my <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">LinkedIn</a> profile</li>
+    <li>I'm really interested in creating solutions that make peoples' lives more easy and enjoyable</li>
+  </ul>
 </h3>
 Here are some ideas to get you started:
 
