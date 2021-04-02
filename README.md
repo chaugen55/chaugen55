@@ -10,16 +10,32 @@
 </h3>
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on changing the world :wink:
-* 🌱 I’m currently learning:
+* 🔭 I’m currently working on changing the world. . . :wink:
+* 🌱 I’m currently/soon to be learning:
   * Python
-    * test
+    * Data Science and Machine Learning
+    * Data Analysis and Visualization
+    * NLP - Natural Language Processing
+    * Financial Analysis and Algorithmic Trading
+    * Dashboards using Plotly and Dash
+    * Deep learning (w/ Keras)
+    * OpenCV
+    * Creating Websites using Flask
+    * Django
   * JavaScript
+    * React.js
+    * Vue
+    * Angular
+    * Node.js
+    * Ionic
+  * Swift and SwiftUI
+  * HTML and CSS
+    * Bootstrap 4
+    * Sass
 * 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/christian-haugen-at-apple/)
 * 😄 Pronouns: he/him/his
 
 ## Languages and Tools:  
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
