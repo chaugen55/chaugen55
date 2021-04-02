@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">
   <img align="left" alt="Christian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=chaugen55.chaugen55)
 <br/>
 
 <h3>
-I'm [Christian Haugen](https://www.linkedin.com/in/christian-haugen-at-apple/) and I'm a Tools and Automation Engineer at Apple. 
+  I'm <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">Christian Haugen</a> and I'm a Tools and Automation Engineer at Apple. 
 </h3>
 Here are some ideas to get you started:
 
