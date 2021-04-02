@@ -1,6 +1,5 @@
 
-<h1> Hey, I'm Christian </h1>
-<code><img height="50" src="https://d2f7anuvnar8n5.cloudfront.net/p/images2/k9/my/dv/d7fvbil/thumbnail_1cf2a4a78aec6218b8391163c0ff96e91d5d1a8a.jpg"></code>
+<h1> Hey, I'm Christian </h1> :smiley:
 
 <h3>
   I'm <a href="https://www.linkedin.com/in/christian-haugen-at-apple/">Christian Haugen</a> and I'm a Tools and Automation Engineer at Apple. 
