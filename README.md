@@ -1,7 +1,3 @@
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christian-haugen-at-apple" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/christian-haugen-at-apple?trk=profile-badge">Christian H.</a></div>
-              
-
 <h1> Hey, I'm Christian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> :smiley: </h1> 
 
 <h3>
@@ -45,4 +41,5 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<code><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="christian-haugen-at-apple" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/christian-haugen-at-apple?trk=profile-badge">Christian H.</a></div></code>              
+<code><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></code>
